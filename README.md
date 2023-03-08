@@ -6,7 +6,7 @@ Src Code của trang web Vũ trụ Sneaker
 ## Danh sách thành viên
 | MSSV | Họ tên |Nhiệm vụ|
 | --- | ----------- |--------------------|
-|  | Trương Quốc Đạt (Nhóm trưởng) ||
+| 20521180 | Trương Quốc Đạt (Nhóm trưởng) | Tấu hài |
 | 20521505 | Trần Ngô Tuấn Kiệt ||
 |  | Huỳnh Tuấn Minh ||
 | | Lê||
