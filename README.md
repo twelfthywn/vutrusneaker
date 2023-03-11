@@ -7,7 +7,7 @@ Src Code của trang web Vũ trụ Sneaker
 | MSSV | Họ tên |Nhiệm vụ|
 | --- | ----------- |--------------------|
 | 20521180 | Trương Quốc Đạt (Nhóm trưởng) |Blog Page|
-| 20521505 | Trần Ngô Tuấn Kiệt ||
+| 20521505 | Trần Ngô Tuấn Kiệt |Main Page|
 | 20521598 | Huỳnh Tuấn Minh |Product Page|
 | 20521495 | Lê Đình Tuấn Kiệt |Product Page|
 | 19521625 | Nguyễn Trường Huy |Collection Page|
