@@ -82,7 +82,7 @@
 							<button class="new_bt">Mới</button>
 							<div class="shoes-img"><img src="images/shoes-img1.png" alt=""></div>
 							<p class="sport_text">Giày thể thao nam</p>
-							<div class="dolar_text">$<strong style="color: #f12a47;">90</strong> </div>
+							<div class="dolar_text"><strong style="color: #f12a47;">2.000.000 vnd</strong> </div>
 							<div class="star_icon">
 								<ul>
 									<li><a href="#"><img src="images/star-icon.png" alt=""></a></li>
@@ -99,7 +99,7 @@
 						<div class="about-img2">
 							<div class="shoes-img2"><img src="images/shoes-img2.png" alt=""></div>
 							<p class="sport_text">Giày thể thao nam</p>
-							<div class="dolar_text">$<strong style="color: #f12a47;">90</strong> </div>
+							<div class="dolar_text"><strong style="color: #f12a47;">2.000.000 vnd</strong> </div>
 							<div class="star_icon">
 								<ul>
 									<li><a href="#"><img src="images/star-icon.png" alt=""></a></li>
@@ -209,34 +209,34 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
 	<!-- 	https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js -->
 	<script>
-		$(document).ready(function () {
-			$(".fancybox").fancybox({
+		(document).ready(function () {
+			(".fancybox").fancybox({
 				openEffect: "none",
 				closeEffect: "none"
 			});
 
 
-			$('#myCarousel').carousel({
+			('#myCarousel').carousel({
 				interval: false
 			});
 
 			//scroll slides on swipe for touch enabled devices
 
-			$("#myCarousel").on("touchstart", function (event) {
+			("#myCarousel").on("touchstart", function (event) {
 
 				var yClick = event.originalEvent.touches[0].pageY;
-				$(this).one("touchmove", function (event) {
+				(this).one("touchmove", function (event) {
 
 					var yMove = event.originalEvent.touches[0].pageY;
 					if (Math.floor(yClick - yMove) > 1) {
-						$(".carousel").carousel('next');
+						(".carousel").carousel('next');
 					}
 					else if (Math.floor(yClick - yMove) < -1) {
-						$(".carousel").carousel('prev');
+						(".carousel").carousel('prev');
 					}
 				});
-				$(".carousel").on("touchend", function () {
-					$(this).off("touchmove");
+				(".carousel").on("touchend", function () {
+					(this).off("touchmove");
 				});
 			});
 	</script>
