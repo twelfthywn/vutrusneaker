@@ -2,7 +2,8 @@
 Src Code của trang web Vũ trụ Sneaker
 ### Các chức năng của trang web:
 
-# Đồ án môn học IE...
+# Đồ án môn học SEO
+Github Page: https://kiet1618.github.io/vutrusneaker/
 ## Danh sách thành viên
 | MSSV | Họ tên |Nhiệm vụ|
 | --- | ----------- |--------------------|
