@@ -8,7 +8,7 @@ Github Page: https://kiet1618.github.io/vutrusneaker/
 ## Member list
 | Student ID | Name |Task & Role|
 | --- | ----------- |--------------------|
-| 20521180 | Trương Quốc Đạt (Nhóm trưởng) |SEO Tactics & Blog Page|
+| 20521180 | Trương Quốc Đạt (Leader) |SEO Tactics & Blog Page|
 | 20521505 | Trần Ngô Tuấn Kiệt |Main Page|
 | 20521598 | Huỳnh Tuấn Minh |Product Page|
 | 20521495 | Lê Đình Tuấn Kiệt |Product Page|
