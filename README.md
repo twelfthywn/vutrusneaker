@@ -1,11 +1,12 @@
 # Vũ trụ Sneaker
-Src Code của trang web Vũ trụ Sneaker
-### Các chức năng của trang web:
+Source code of brand Vu tru Sneaker (Vũ trụ Sneaker)
 
-# Đồ án môn học SEO
+# Project for SEO
+##Score 9/10
 Github Page: https://kiet1618.github.io/vutrusneaker/
-## Danh sách thành viên
-| MSSV | Họ tên |Nhiệm vụ|
+
+## Member list
+| Student ID | Name |Task & Role|
 | --- | ----------- |--------------------|
 | 20521180 | Trương Quốc Đạt (Nhóm trưởng) |SEO Tactics & Blog Page|
 | 20521505 | Trần Ngô Tuấn Kiệt |Main Page|
